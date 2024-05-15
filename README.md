@@ -2,6 +2,8 @@ About Wavecon -
 Wavecon is a telecommunications firm and one of the top telecom service providers, having recently launched its 5G service.
 The companywants to know more about its 5G debut. They seek a report on its key performance indicators (KPIs).
 They also want to analyse how their 5G plans are performing over time.
+
+
 • Objective
 
 The purpose is to create an ad-hoc analysis dashboard and deliver insights.-
